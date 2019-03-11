@@ -1,0 +1,200 @@
+{'title': 'Mwaka Moon', 'artist': 'Kalash', 'streams': 352479, 'id': '1vVZLmZq8gN8pPCEBLjPvD', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Salé', 'artist': 'Niska', 'streams': 208775, 'id': '0uBu60Wd7yzm2sFrj2hSr6', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Réseaux', 'artist': 'Niska', 'streams': 192524, 'id': '2nY6MRHWpW0AGXMoGDJOjX', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Tuba Life', 'artist': 'Niska', 'streams': 158810, 'id': '2r6C2IEw533mDs3sam5Zxx', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'rockstar', 'artist': 'Post Malone', 'streams': 144022, 'id': '7wGoVu4Dady5GV0Sv4UIsx', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Medellín', 'artist': 'Niska', 'streams': 139880, 'id': '1gI6FedOWXQ7aSj4FfEiGK', 'date': '2017-10-19', 'region': 'fr'}
+{'title': "De l'autre côté (feat. Nekfeu)", 'artist': 'Ninho', 'streams': 120611, 'id': '3ldfGgw7IoLHbaqmspX3ME', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Basique', 'artist': 'Orelsan', 'streams': 118592, 'id': '0LMv3sc83AI7tJCkvSWPvO', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Madre mia (feat. Ninho)', 'artist': 'Sadek', 'streams': 117148, 'id': '37YNulvDhyzULfhHycmhEl', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Caramelo', 'artist': 'Ninho', 'streams': 112495, 'id': '4fuhLKAuSxRY5OO2hwARlY', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Mamacita', 'artist': 'Ninho', 'streams': 104645, 'id': '35gJuqfvrdlCA2MmAtaD3J', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Je pense à toi', 'artist': 'Hornet La Frappe', 'streams': 98873, 'id': '4vEaXY95aExfle99vJgXzU', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Glorious (feat. Skylar Grey)', 'artist': 'Macklemore', 'streams': 98807, 'id': '0CokSRCu5hZgPxcZBaEzVE', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Mobali', 'artist': 'Siboy', 'streams': 97293, 'id': '6xcXAVbDuVT1pCsa2rmDHY', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Story X', 'artist': 'Niska', 'streams': 97140, 'id': '05k8JclzlJZuO6dmfFmFW6', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Havana', 'artist': 'Camila Cabello', 'streams': 92631, 'id': '0ofbQMrRDsUaVKq2mGLEAb', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Dusk Till Dawn - Radio Edit', 'artist': 'ZAYN', 'streams': 87863, 'id': '1j4kHkkpqZRBwE0A4CN4Yv', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Unforgettable', 'artist': 'French Montana', 'streams': 87379, 'id': '3B54sVLJ402zGa6Xm4YGNe', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'New Rules', 'artist': 'Dua Lipa', 'streams': 85182, 'id': '2ekn2ttSfGqwhhate0LSR0', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Feel It Still', 'artist': 'Portugal. The Man', 'streams': 84233, 'id': '6QgjcU0zLnzq5OrUoSZ3OK', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Θ. Macarena', 'artist': 'Damso', 'streams': 82480, 'id': '2UZW9WOPXdxw9YMG1bebS8', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Ε. Signaler', 'artist': 'Damso', 'streams': 80900, 'id': '03aduXwm6cTqO9bb4XFQ2b', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Dommage', 'artist': 'Bigflo & Oli', 'streams': 76073, 'id': '7sDshqjhKiysLt5gcXYoLo', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Dozo', 'artist': 'Kaaris', 'streams': 75446, 'id': '1Zu1IfKUQsuhARjy6DmUGc', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Thunder', 'artist': 'Imagine Dragons', 'streams': 71373, 'id': '0tKcYR2II1VCQWT79i5NrW', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'What About Us', 'artist': 'P!nk', 'streams': 71168, 'id': '0Qh38w01QRXK6KHIv0e3hb', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Rose', 'artist': 'Ninho', 'streams': 70869, 'id': '4Ln4KAwk37peyCh2QpqYnP', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Papa allo', 'artist': 'Alonzo', 'streams': 68921, 'id': '0cW4qZevtGLVy7aejt6N3Y', 'date': '2017-10-19', 'region': 'fr'}
+{'title': "Elle m'a eu", 'artist': 'Ninho', 'streams': 67280, 'id': '78DktVruMrKYyv6rjdKDMM', 'date': '2017-10-19', 'region': 'fr'}
+{'title': "Chasse à l'homme", 'artist': 'Niska', 'streams': 66241, 'id': '7y4ELJ02ZssUMSkJiTfq2o', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Feels (feat. Pharrell Williams, Katy Perry & Big Sean)', 'artist': 'Calvin Harris', 'streams': 66204, 'id': '5bcTCxgc7xVfSaMV3RuVke', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'What Lovers Do (feat. SZA)', 'artist': 'Maroon 5', 'streams': 64949, 'id': '4mxWSdf71VFO52qFeY0fZt', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Snapchat', 'artist': 'Niska', 'streams': 64638, 'id': '57cqTftDWbUEPhGXbDigZu', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'N. J Respect R', 'artist': 'Damso', 'streams': 64529, 'id': '75UFzgBCaVwJJ4IVIaatpe', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'All Stars', 'artist': 'Martin Solveig', 'streams': 63054, 'id': '3aLSrx8qhssXrh5yjB6oy9', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Shape of You', 'artist': 'Ed Sheeran', 'streams': 62373, 'id': '7qiZfU4dY1lWllzX7mPBI3', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Laisse pas traîner ton fils (feat. Sofiane)', 'artist': 'Ninho', 'streams': 61265, 'id': '1Fv767CH5YFrjo6HwzHnpR', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'B.O.C', 'artist': 'Niska', 'streams': 60979, 'id': '5lns1XJ9lTCMRBmqlhQDTZ', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Ah bon ?', 'artist': 'Niska', 'streams': 60779, 'id': '359buFCogBGX23Dgdqcrws', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Katchi - Ofenbach vs. Nick Waterhouse', 'artist': 'Ofenbach', 'streams': 60507, 'id': '2NF8A7C6tICScdRaZ0BrEe', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Versus', 'artist': 'Niska', 'streams': 59873, 'id': '3gO8sS8nMNuVwqMyJKRs3b', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'More Than You Know', 'artist': 'Axwell /\\ Ingrosso', 'streams': 58754, 'id': '3PEgB3fkiojxms35ntsTgs', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Fume à fond', 'artist': 'Lorenzo', 'streams': 58737, 'id': '2fgk04HR0nlgNysfX7fKF0', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Suis-moi', 'artist': 'Alonzo', 'streams': 57821, 'id': '54G8osRu1htBw1PQEkYIdL', 'date': '2017-10-19', 'region': 'fr'}
+{'title': "Twerk dans l'binks", 'artist': 'Niska', 'streams': 57703, 'id': '6fowps7eXfuZUjSfrp2AlQ', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Favélas', 'artist': 'Niska', 'streams': 57615, 'id': '7dl9BHIXXkBb3zsgWjRchZ', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'La wewer', 'artist': 'Niska', 'streams': 57281, 'id': '60rndNMhEUgIR3G1uhlDwg', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Attention', 'artist': 'Charlie Puth', 'streams': 56330, 'id': '4iLqG9SeJSnt0cSPICSjxv', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'La Vache', 'artist': 'Sadek', 'streams': 55939, 'id': '4fB1rne6IrlH2Xk8YnIjA3', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Amour X', 'artist': 'Niska', 'streams': 55376, 'id': '4BwcvkALEWX18xXDgXSVb6', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Γ. Mosaïque solitaire', 'artist': 'Damso', 'streams': 53867, 'id': '1E3zyoTHtJzsu5CjwIFIhY', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Je suis gninnin, je suis bien', 'artist': 'Kaaris', 'streams': 53046, 'id': '18lnW0d7FJTvYHulJeI3ai', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Dead ça', 'artist': 'Hornet La Frappe', 'streams': 51364, 'id': '6tiZhqx8IqDxCQXFit6tc0', 'date': '2017-10-19', 'region': 'fr'}
+{'title': "Jusqu'au dernier gramme", 'artist': 'PNL', 'streams': 51030, 'id': '2jBleFNl3YK8lyJc1OvxXt', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Koussi koussa', 'artist': 'Kalash', 'streams': 50447, 'id': '2bN31IEckRU6jEj416ABvc', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'No Roots', 'artist': 'Alice Merton', 'streams': 49182, 'id': '7anBA0IdgFaN3Pbyk2tog0', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Mi Gente (feat. Beyoncé)', 'artist': 'J Balvin', 'streams': 49071, 'id': '7fwXWKdDNI5IutOMc5OKYw', 'date': '2017-10-19', 'region': 'fr'}
+{'title': '1-800-273-8255', 'artist': 'Logic', 'streams': 49070, 'id': '5tz69p7tJuGPeMGwNTxYuV', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Wild Thoughts (feat. Rihanna & Bryson Tiller)', 'artist': 'DJ Khaled', 'streams': 49024, 'id': '1OAh8uOEOvTDqkKFsKksCi', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Too Good At Goodbyes - Edit', 'artist': 'Sam Smith', 'streams': 48393, 'id': '0mel2N9Ws9r4yLQn5QE21Y', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Lonely Together (feat. Rita Ora)', 'artist': 'Avicii', 'streams': 47894, 'id': '2OALaHcDdKkjYEpAr0Qzab', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'OK', 'artist': 'Robin Schulz', 'streams': 46968, 'id': '3bWAqKDWg6u1davspr5IkS', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Without You (feat. Sandro Cavazza)', 'artist': 'Avicii', 'streams': 46542, 'id': '6WbADFqMvR8N5u0BvtsWQE', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Gramme 2 peuf', 'artist': 'Hornet La Frappe', 'streams': 45623, 'id': '1bPAaKRZSoBWBeeT0idULo', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Stargazing', 'artist': 'Kygo', 'streams': 44888, 'id': '0Zbbxnx4SGGHoIow4PpISP', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Chino', 'artist': 'Ninho', 'streams': 44652, 'id': '3p4bezMTUHn0u1D8C1uJrz', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Silence', 'artist': 'Marshmello', 'streams': 44524, 'id': '7vGuf3Y35N4wmASOKLUVVU', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Fly (feat. Amara Abonta)', 'artist': 'Ødyssey', 'streams': 43834, 'id': '1NAeorrSNCibpdJMpXLFeG', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Lové (feat. Gradur)', 'artist': 'Ninho', 'streams': 43521, 'id': '4HeTbgW1dDHxE8LrNL5HDP', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'H&M', 'artist': 'Niska', 'streams': 42647, 'id': '2z0UxeFL42USbvokDnLwmp', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Know No Better (feat. Travis Scott, Camila Cabello & Quavo)', 'artist': 'Major Lazer', 'streams': 42489, 'id': '3Ytr1SUCUi6J3L9dRFx5iH', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Mi Corazón', 'artist': 'DJ Sem', 'streams': 42311, 'id': '6flVMwes9WcpCyNGTTVJ2j', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Maghrébin', 'artist': 'Hornet La Frappe', 'streams': 41737, 'id': '3xbPIl1dqCSbymBpBrNl73', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Sorry Not Sorry', 'artist': 'Demi Lovato', 'streams': 41674, 'id': '3m660poUr1chesgkkjQM7P', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Comme prévu', 'artist': 'Ninho', 'streams': 40959, 'id': '3AqwdLkl62kRTE8TwXxeIM', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Judy Moncada', 'artist': 'Lacrim', 'streams': 40338, 'id': '04CbLJRm3XwOsGZt8mDqbj', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Perfect', 'artist': 'Ed Sheeran', 'streams': 40252, 'id': '0tgVpDi06FyKpA1z0VMD4v', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Me Rehúso', 'artist': 'Danny Ocean', 'streams': 40048, 'id': '6De0lHrwBfPfrhorm9q1Xl', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Friends (with BloodPop®)', 'artist': 'Justin Bieber', 'streams': 40004, 'id': '7nZmah2llfvLDiUjm0kiyz', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'I Like Me Better', 'artist': 'Lauv', 'streams': 39423, 'id': '1wjzFQodRWrPcQ0AnYnvQ9', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Mi Gente', 'artist': 'J Balvin', 'streams': 39184, 'id': '2rb5MvYT7ZIxbKW5hfcHx8', 'date': '2017-10-19', 'region': 'fr'}
+{'title': "There's Nothing Holdin' Me Back", 'artist': 'Shawn Mendes', 'streams': 39160, 'id': '79cuOz3SPQTuFrp8WgftAu', 'date': '2017-10-19', 'region': 'fr'}
+{'title': "It Won't Kill Ya", 'artist': 'The Chainsmokers', 'streams': 39046, 'id': '5xhJmd0I15jFcEdqxfCzKk', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Onizuka', 'artist': 'PNL', 'streams': 38846, 'id': '4GCIYE1x1TWJCChPkpy9by', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Good Old Days (feat. Kesha)', 'artist': 'Macklemore', 'streams': 38685, 'id': '2Za1AlJNvksouPPWbXpR2X', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Look What You Made Me Do', 'artist': 'Taylor Swift', 'streams': 38397, 'id': '6uFsE1JgZ20EXyU0JQZbUR', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Pretty Girl - Cheat Codes X CADE Remix', 'artist': 'Maggie Lindemann', 'streams': 37770, 'id': '1NDxZ7cFAo481dtYWdrUnR', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Drôle de dame', 'artist': 'Jul', 'streams': 37501, 'id': '4YXvIqGemSbgBtHP5AOWvJ', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Dans la lune', 'artist': 'Sadek', 'streams': 37457, 'id': '32eqzSOYKNgr3QVFMVlocl', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Reine', 'artist': 'Dadju', 'streams': 37435, 'id': '5YIbA6i8pPUnl6CDpVDa63', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Le sens des affaires', 'artist': 'Naps', 'streams': 37359, 'id': '7Avu6qOQMMs7TVsGLgT8ap', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Bum Bum Tam Tam', 'artist': 'MC Fioti', 'streams': 37074, 'id': '7KBfjlQ85Fqs2MCCvXSW0c', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Ghetto', 'artist': 'Benash', 'streams': 36359, 'id': '3VdDQkNCQKPAL4nZlFKWlN', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'MMM', 'artist': 'Naza', 'streams': 36210, 'id': '0Jl9rd0LX2xrZFPEpRYWAT', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'On était beau', 'artist': 'Louane', 'streams': 35838, 'id': '0A9wC1WP0tzt4TQTZdBirz', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'There for You', 'artist': 'Martin Garrix', 'streams': 35790, 'id': '6jA8HL9i4QGzsj6fjoxp8Y', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Maléfique', 'artist': 'Djadja & Dinaz', 'streams': 35447, 'id': '36rJPxwMaQV4EL7N8f8UXO', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Ce soir ne sors pas', 'artist': 'Lacrim', 'streams': 35086, 'id': '29rRQITL0TE9bcoi66i2O5', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'XO TOUR Llif3', 'artist': 'Lil Uzi Vert', 'streams': 35024, 'id': '7GX5flRQZVHRAGd6B4TmDO', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Back to You (feat. Bebe Rexha & Digital Farm Animals)', 'artist': 'Louis Tomlinson', 'streams': 34609, 'id': '7F9vK8hNFMml4GtHsaXui6', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Tenue de motard 4', 'artist': 'Djadja & Dinaz', 'streams': 34194, 'id': '3dKPTLq7kjYoXp62aP8MVE', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'En leuleu (feat. Niska)', 'artist': 'Sadek', 'streams': 34162, 'id': '0zx2ksnbLkPG1wrbnO0KrQ', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Strip That Down', 'artist': 'Liam Payne', 'streams': 33527, 'id': '6EpRaXYhGOB3fj4V2uDkMJ', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Roro', 'artist': 'Ninho', 'streams': 33525, 'id': '1EifJutqv2tG7Cwwaq2ud4', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'B. #QuedusaalVie', 'artist': 'Damso', 'streams': 33520, 'id': '4HvYhaXDmmAW6ZmPcgPZca', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Comportement', 'artist': 'Aya Nakamura', 'streams': 33122, 'id': '2nOZaGwMYt07nXtIeYbEiu', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'D.M.B', 'artist': 'Niska', 'streams': 33108, 'id': '26LK30839pwfdnTYnDUxU3', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Ma jolie', 'artist': 'Jul', 'streams': 32855, 'id': '49qQQcd8wONsOy3PwnZKHB', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Ce soir (feat. Alonzo)', 'artist': 'Ninho', 'streams': 32849, 'id': '1QH6Irlx3h57TyLjJmNufU', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Α. Nwaar Is The New Black', 'artist': 'Damso', 'streams': 32681, 'id': '57U26FwUclMqyZ5ylnPpw1', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Shine on my Way', 'artist': 'Diva Faune', 'streams': 32451, 'id': '1LCdHocTe3wvSEPSISoEaQ', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Pardon', 'artist': 'MMZ', 'streams': 32348, 'id': '2R3zxY1lXAQd7nwKqavjIt', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Gucci Gang', 'artist': 'Lil Pump', 'streams': 32182, 'id': '43ZyHQITOjhciSUUNPVRHc', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Your Song', 'artist': 'Rita Ora', 'streams': 32066, 'id': '4c2W3VKsOFoIg2SFaO6DY5', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'HLM ou Palace', 'artist': 'Ninho', 'streams': 31939, 'id': '0IrzlAmB2W08MZynOctOhI', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Boyz N The Hood', 'artist': 'Kaaris', 'streams': 31785, 'id': '5zCO1EU3KpM2tsFaZdu9vq', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Believer', 'artist': 'Imagine Dragons', 'streams': 31284, 'id': '0CcQNd8CINkwQfe1RDtGV6', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Bank Account', 'artist': '21 Savage', 'streams': 30611, 'id': '2fQrGHiQOvpL9UgPvtYy6G', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'PDCV (Pas dans cette vie)', 'artist': 'Dosseh', 'streams': 30488, 'id': '33N0DD1cmllJxjKQvJkFo2', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Infréquentables', 'artist': 'Dosseh', 'streams': 30319, 'id': '63z6p4gpgnpZprANkpBIHH', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Too Much To Ask', 'artist': 'Niall Horan', 'streams': 30015, 'id': '3hRZsdTF5uyGA2uhNqEuhm', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Bené', 'artist': 'PNL', 'streams': 29897, 'id': '00X2yv2vrtritPt2CZnUTZ', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Jocelyn Flores', 'artist': 'XXXTENTACION', 'streams': 29881, 'id': '7m9OqQk4RVRkw9JJdeAw96', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Rich Love (with Seeb)', 'artist': 'OneRepublic', 'streams': 29777, 'id': '7aF09WaavZAmAWuUeYxlYD', 'date': '2017-10-19', 'region': 'fr'}
+{'title': "O'KCLH", 'artist': '4Keus Gang', 'streams': 29531, 'id': '6TmLzC7dbkrWnh0bWXSpyq', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Dita (feat. Hös)', 'artist': 'Ninho', 'streams': 29510, 'id': '5yJ7tCEbgBC8ewZzUy0dBF', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Ouloulou', 'artist': 'Dabs', 'streams': 29408, 'id': '4JIOC5P1G1NjhRJ2JSXm41', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Mama', 'artist': 'Jonas Blue', 'streams': 29372, 'id': '0NiXXAI876aGImAd6rTj8w', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Alors alors', 'artist': 'Bigflo & Oli', 'streams': 29262, 'id': '7BCZh8tgdw8HuUsvqlNBDR', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'La 6', 'artist': 'Timal', 'streams': 29246, 'id': '7ytDxdzzU0OlLcA56APYUE', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Congratulations', 'artist': 'Post Malone', 'streams': 28720, 'id': '3a1lNhkSLSkpJE4MSHpDu9', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Snitch', 'artist': 'Kalash', 'streams': 28569, 'id': '1iFxopCZEDxqOyusE43qMj', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Mask Off', 'artist': 'Future', 'streams': 28555, 'id': '3rOSwuTsUlJp0Pu0MkN8r8', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'HUMBLE.', 'artist': 'Kendrick Lamar', 'streams': 28511, 'id': '7KXjTSCq5nL1LoYtL7XAwS', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Pourquoi', 'artist': 'Ninho', 'streams': 28482, 'id': '4wbmLB3IZzEIgi7VGAb0lf', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Oh bah oui', 'artist': 'Lacrim', 'streams': 28320, 'id': '0z18wqbjuXTxzaNm4oegU2', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Despacito (Featuring Daddy Yankee)', 'artist': 'Luis Fonsi', 'streams': 27299, 'id': '4aWmUDTfIPGksMNLV2rQP2', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Les menottes (Tching Tchang Tchong)', 'artist': "L'Algérino", 'streams': 27241, 'id': '6QfPyKRfSQBb3ccajHioEm', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Super Far', 'artist': 'LANY', 'streams': 27017, 'id': '74ODGXs4byLTRdnKGM4s6E', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Carbozo', 'artist': 'Ninho', 'streams': 26908, 'id': '1YSqt7M3WZe5Fgdu5KUruc', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Mauvaise graine', 'artist': 'Nekfeu', 'streams': 26885, 'id': '4kKJ5CjwCtksszPMntho4N', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'La Provence', 'artist': 'Hooss', 'streams': 26876, 'id': '0LPBqEwdmKlnATtDiMpIKB', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'À part ça', 'artist': 'Naps', 'streams': 26483, 'id': '5Ik150YpJw117EFg5gF9lP', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Rx (Medicate)', 'artist': 'Theory of a Deadman', 'streams': 26437, 'id': '7pV6zXFpCwrrmcosBAtp0o', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Ζ. Kietu', 'artist': 'Damso', 'streams': 26338, 'id': '5urhEtesorARjZhjSaFntn', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Highlander', 'artist': 'S.Pri Noir', 'streams': 26118, 'id': '7A3rNO7cmVKM3boOmIBwtj', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Mode avion', 'artist': 'Kalash', 'streams': 25359, 'id': '02t5gEURbZvQ5q3xlqzBLq', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Tired - Kygo Remix', 'artist': 'Alan Walker', 'streams': 25350, 'id': '3t0J8vI9StQD8KIBkT2Cp5', 'date': '2017-10-19', 'region': 'fr'}
+{'title': "T'es un marrant (feat. Sofiane)", 'artist': 'Hornet La Frappe', 'streams': 25124, 'id': '68mVd6a9VJhCSIjgwB76nK', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Yeux disent', 'artist': 'Lomepal', 'streams': 25113, 'id': '1uaAq8pSghvpVxlrOrgdeO', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Mehdi', 'artist': 'Marwa Loud', 'streams': 25046, 'id': '7tSrGrv0DI8r5qrD2nHwXp', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Pierre, feuille, papier, ciseaux', 'artist': 'Columbine', 'streams': 24580, 'id': '0rDp24SRrDTsrVoUdSWZa2', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Chocolat (feat. Awa Imani)', 'artist': 'Lartiste', 'streams': 24458, 'id': '4fwtP5khM1iEoa6BP1QQsX', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Naha', 'artist': 'PNL', 'streams': 24070, 'id': '0lkQfsTMmtDA37tjjew9n0', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Κ. Kin la belle', 'artist': 'Damso', 'streams': 24060, 'id': '6nGSXuZrE5P7gSvtJs4unC', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Bodak Yellow', 'artist': 'Cardi B', 'streams': 24021, 'id': '2771LMNxwf62FTAdpJMQfM', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Brothers', 'artist': 'Rilès', 'streams': 23987, 'id': '45KqDHTOJtIM53QR1gPGTa', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Vatos', 'artist': 'Timal', 'streams': 23348, 'id': '3yHdlt7YQI9ItRTZU8HbgL', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Sunset Lover', 'artist': 'Petit Biscuit', 'streams': 23310, 'id': '0hNduWmlWmEmuwEFcYvRu1', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Catchu Catchu', 'artist': 'Lartiste', 'streams': 23299, 'id': '2ogSMKrLQnICe1onHfr0rL', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Sors de ma tête', 'artist': 'Niro', 'streams': 23127, 'id': '1i03F8e3iYugaWN1r1QCbU', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Oiseaux', 'artist': 'Django', 'streams': 23113, 'id': '3gd5HHSJiZI6zsC8N716Fp', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Collision', 'artist': 'Still Fresh', 'streams': 23106, 'id': '56Nlo5jWQ547qaYRfH6vzS', 'date': '2017-10-19', 'region': 'fr'}
+{'title': '100 rêves', 'artist': 'DTF', 'streams': 22950, 'id': '0UXW6ihyeYHfb4jae7QxGl', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'MAC 11', 'artist': 'SCH', 'streams': 22902, 'id': '2KkD7TsSOHyG8sXdhLkTf8', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Issues', 'artist': 'Julia Michaels', 'streams': 22860, 'id': '6D0b04NJIKfEMg040WioJQ', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Bagarre', 'artist': 'Alonzo', 'streams': 22849, 'id': '47kyFITLgCqjLvWQz9Gty5', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Maître Ruben', 'artist': 'Sofiane', 'streams': 22772, 'id': '09oOQuMX93fFX8YVSs9fph', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Be Mine', 'artist': 'Ofenbach', 'streams': 22741, 'id': '2KklXplRtxMsBYo474Es0w', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Bad Boy (feat. Aya Nakamura)', 'artist': 'Fally Ipupa', 'streams': 22696, 'id': '0FSmLzJo6mRBJfh7JbJjuC', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'One Dance', 'artist': 'Drake', 'streams': 22667, 'id': '1xznGGDReH1oQq0xzbwXa3', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Personne', 'artist': 'Bigflo & Oli', 'streams': 22627, 'id': '1OYlOIc7UdRBe1daHclsRU', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Δ. Dieu ne ment jamais', 'artist': 'Damso', 'streams': 22553, 'id': '6ATkHaUrIJUtwyhoGMmQgw', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Cellophané', 'artist': "Rim'K", 'streams': 22511, 'id': '2sOrroHqKbYFP2MfHxhQMc', 'date': '2017-10-19', 'region': 'fr'}
+{'title': '2U (feat. Justin Bieber)', 'artist': 'David Guetta', 'streams': 22486, 'id': '3A7qX2QjDlPnazUsRk5y0M', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Pochon bleu', 'artist': 'Naps', 'streams': 22392, 'id': '337NxxJAxClIStxYcu7HNG', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'I Get The Bag (feat. Migos)', 'artist': 'Gucci Mane', 'streams': 22345, 'id': '1XRgIKC5TPwo7nWGyKqgG0', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Call On Me - Ryan Riback Extended Remix', 'artist': 'Starley', 'streams': 22340, 'id': '78rIJddV4X0HkNAInEcYde', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Napoli', 'artist': 'Sadek', 'streams': 22215, 'id': '32AgFOMXZQtUICDf6gedY6', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'A Different Way (with Lauv)', 'artist': 'DJ Snake', 'streams': 22136, 'id': '0Wv5wuenRLI3BcwgT3HPIP', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Let You Down', 'artist': 'NF', 'streams': 21756, 'id': '6mrKP2jyIQmM0rw6fQryjr', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Swalla (feat. Nicki Minaj & Ty Dolla $ign)', 'artist': 'Jason Derulo', 'streams': 21561, 'id': '6kex4EBAj0WHXDKZMEJaaF', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Young Dumb & Broke', 'artist': 'Khalid', 'streams': 21555, 'id': '5Z3GHaZ6ec9bsiI5BenrbY', 'date': '2017-10-19', 'region': 'fr'}
+{'title': "Mon p'tit loup", 'artist': 'Sofiane', 'streams': 21544, 'id': '5SaaHXMTEAO1vWanbSJMMt', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Skywalker', 'artist': 'S.Pri Noir', 'streams': 21541, 'id': '5B13mNIiknPY2zKCyn1O6L', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Thank God', 'artist': 'Rilès', 'streams': 21489, 'id': '5ZtoiFGlZ3tur8NJAMn0ws', 'date': '2017-10-19', 'region': 'fr'}
+{'title': "J'suis dans l'baye", 'artist': 'Niska', 'streams': 21297, 'id': '1YcY5Iiv3Ab68QC2rMKuBP', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Mwaka Story', 'artist': 'Kalash', 'streams': 21239, 'id': '5PU33Ua2bB2B713yGojGjr', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'San', 'artist': 'Orelsan', 'streams': 21235, 'id': '36SHbxigbf4iSCHdQVgy6V', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Nougat', 'artist': 'Booba', 'streams': 20862, 'id': '3ACvYZqgoP36dURFeovOR8', 'date': '2017-10-19', 'region': 'fr'}
+{'title': "C'est la même", 'artist': 'Djadja & Dinaz', 'streams': 20842, 'id': '6wR97bho2QoIiP5wxNxtQz', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'DA', 'artist': 'PNL', 'streams': 20713, 'id': '5UOGzIMvxXyRZIWBbqDcpU', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Terrain glissant (feat. Kalash Criminel)', 'artist': 'Hornet La Frappe', 'streams': 20627, 'id': '3ENoWN2ftV0ngsVwsT05Tb', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Despacito - Remix', 'artist': 'Luis Fonsi', 'streams': 20363, 'id': '5CtI0qwDJkDQGwXD1H1cLb', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Something Just Like This', 'artist': 'The Chainsmokers', 'streams': 20208, 'id': '6RUKPb4LETWmmr3iAEQktW', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Zone (feat. Nekfeu & Dizzee Rascal)', 'artist': 'Orelsan', 'streams': 19833, 'id': '1Tx2jZNOvlrj20ctkCg8vR', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'La terre est ronde', 'artist': 'Orelsan', 'streams': 19792, 'id': '3IM7zXywZ6sRTtkRjRLxJ8', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'À gogo', 'artist': 'Naza', 'streams': 19768, 'id': '5cHDsgGQ9KyHbRkMsOVjZN', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Vitrine', 'artist': 'Vald', 'streams': 19698, 'id': '0NUvPSk4VzBW0ClqgGxNRj', 'date': '2017-10-19', 'region': 'fr'}
+{'title': 'Je ne comprends pas', 'artist': 'Kalash Criminel', 'streams': 19668, 'id': '5FRCTmIl1SIie075FoVsqA', 'date': '2017-10-19', 'region': 'fr'}
